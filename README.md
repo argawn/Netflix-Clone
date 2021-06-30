@@ -1,2 +1,2 @@
-# Netflix-Clone
+# amazon-clon-front and back-end
  
